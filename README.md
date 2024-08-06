@@ -87,6 +87,15 @@ Languages
  -->
 
 <p><img src="https://user-images.githubusercontent.com/39916680/132490679-1b93cc7e-d718-4410-9f43-8a5387c2cc7a.png" alt="" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=surajforu&limit=7&theme=dracula&combine_all_yearly_contributions=true)
+
+
+## 👀 Profile views
+
+![Visitor Count](https://profile-counter.glitch.me/{surajforu}/count.svg) 
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajforu&" alt="surajforu" /></p> -->
+
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-surajshaw-red)](https://github.com/surajforu)
 
