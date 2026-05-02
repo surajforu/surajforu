@@ -93,7 +93,7 @@ Languages
 ## 👀 Profile views
 
 ![Visitor Count](https://profile-counter.glitch.me/{surajforu}/count.svg) 
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajforu&" alt="surajforu" /></p> -->
+ <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajforu&" alt="surajforu" /></p> 
 
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-surajshaw-red)](https://github.com/surajforu)
