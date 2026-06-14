@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">
   <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="70">
   Hi, I'm Suraj Shaw
@@ -242,4 +242,3 @@ Developed a machine learning model to identify fraudulent online payment transac
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Suraj%20Shaw-red">
 </p>
-```
